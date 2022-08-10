@@ -13,7 +13,3 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 - 📫 You can [view my resume](#) and contact me by emailing smallbullet16@gmail.com.
 
 ---
-
-
-|
-| ------------- | ------------- |
